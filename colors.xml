@@ -1,0 +1,14 @@
+<resources>
+    <!-- Основные цвета -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#212121</color>
+
+    <!-- Зеленая палитра -->
+    <color name="green_light">#C8E6C9</color>
+    <color name="green_medium">#4CAF50</color>
+    <color name="green_dark">#2E7D32</color>
+
+    <!-- Красный акцент -->
+    <color name="red_medium">#F44336</color>
+    <color name="red_light">#FFCDD2</color>
+</resources>
